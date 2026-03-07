@@ -1,0 +1,1 @@
+eksctl create cluster --name akash-cluster  --region ap-south-2  --zones ap-south-2a,ap-south-2b  --nodegroup-name k8s-ng  --node-type t3.medium  --nodes 2
